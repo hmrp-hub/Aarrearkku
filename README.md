@@ -21,13 +21,13 @@ Oheinen AI-idea yhdistää lasten hyvinvointitutkimuksen ja lastensuojelututkimu
 
 Yhdistämällä tekoälyn menetelmiä edellä mainitulla tavalla voidaan tehdä säännöllisesti toistuvia pitkittäistutkimuksia, joilla voidaan löytää lastensuojelun tarpeen juurisyitä ja pureutua niiden ennaltaehkäisyyn tavalla, joka ei leimaa eikä osoittele sormella saati syyllistä ketään vaiheessa, jossa ongelmat ovat vasta kehittymässä. Varhainen puuttuminen voidaan tehdä mahdollisesti universaalisti rajaamatta erikseen mitään nimettyä joukkoa toimenpiteiden kohteiksi. 
 
-Tutkimuksen tuloksia voisi käyttää mm. sosionomien ja sosiaalityöntekijöiden sekä esim. neuvoloiden ja koulujen työntekijöiden koulutuksessa, sosiaalityössä (lastensuojelussa erityisesti), sosiaalityön suunnittelussa, kehittämisessä sekä politiikkatoimien ja päätöksenteon perusteluina ja tukean niin kunta-, hyvinvointialue- kuin valtakunnallisellakin tasolla.
+Tutkimuksen tuloksia voisi käyttää mm. sosionomien ja sosiaalityöntekijöiden sekä esim. neuvoloiden ja koulujen työntekijöiden koulutuksessa, sosiaalityössä (lastensuojelussa erityisesti), sosiaalityön suunnittelussa, kehittämisessä sekä politiikkatoimien ja päätöksenteon perusteluina ja tukena niin kunta-, hyvinvointialue- kuin valtakunnallisellakin tasolla.
 
 Idea soveltuisi tehtäväksi - alkuun projektina - valtakunnallisesti tutkimus- (ja kehittämis-) ryhmän toimesta. Kohteina ovat lapset, nuoret ja heidän perheensä. Minulla on hyvinvointipuolelle olemassa pääsy valmiiseen (kansainväliseen), laajasti testattuun kyselylomakkeeseen ja väitöstyön kautta tarvittavia tietoja mm. lastensuojelun menetelmistä ja huostaanoton vaikuttavuudesta, mitkä ovat edellytyksiä tutkimuskokonaisuuden rakentamiselle. Kyselyn ja väitöstyön materiaalin lisäksi tarvitaan lastensuojelun rekisteri- ja asiakirjatietoja. Asianmukaiset tutkimusluvat luonnollisesti tarvitaan myös.
 
 Idean toteuttaminen edellyttäisi AI-ekspertin mukanaoloa, omat AI-taitoni eivät siihen riitä, tutkimisen osaan kyllä.  Tutkimus olisi luonnollisesti hyvä tehdä yliopiston tai tutkimuslaitoksen siipien suojissa.
 
-Projekti ei tuo ratkaisua siihen, mitä täsmälleen pitäisi ennaltaehkäisynä tehdä, millä menetelmillä mahdollisesti tulevaisuuden ongelmat vältetään. Toisaalta  juurisyiden indikaattorien löytyminen hyvinvointipuutteina voi antaa vinkkiä myös ennaltaehkäisymenetelmistä.
+Projekti ei tuo ratkaisua siihen, mitä täsmälleen pitäisi ennaltaehkäisynä tehdä, millä menetelmillä mahdollisesti tulevaisuuden ongelmat vältetään. Toisaalta  juurisyiden indikaattorien löytyminen voi antaa vinkkiä myös ennaltaehkäisymenetelmistä.
 
 Aiheen parissa riittäisi tekemistä kokonaiselle tutkimusryhmälle, jolle voisi hakea rahoitusta. Vähintään se tarvitsisi lisäkseni AI-nikkarin. Projektin tulokset voisivat parhaimmillaan olla vaikuttamassa sosiaalityön ja lastensuojelun menetelmiin, käytäntöihin, koulutukseen ja kehittämiseen, yhteiskunnalliseen suunnitteluun sekä poliittiseen päätöksentekoon.
 
